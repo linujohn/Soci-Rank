@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/tweetterm.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/src/java/com/tweets.java</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/img/block.JPG</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/src/java/com/TFIDFCalculator.java</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/relevant.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/userregister.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/img/admin.png</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/src/java/com/StatusExample.java</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/send.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/between.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/img/user.png</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/src/java/login.java</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/src/java/com/OutlierDetection.java</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/img/top-bg.png</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/src/java/com/Stopwords.java</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/termsimilarity.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/outlier.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/getquery.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/timeline.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/img/top-bg2.jpg</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/process.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/index.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/posttweet.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/img/top-bg1.jpg</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/nodewei.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/index.html</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/img/yellow.png</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/img/yellow_testimonial.png</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/userhome.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/logout.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/adminhome.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/termfrequency.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/adminlogin.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/userlogin.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/querytweet.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/keyterm.jsp</file>
+            <file>file:/E:/soci-rank/Socirank/SOURCE%20CODE/SRC/web/evaluation.jsp</file>
+        </group>
+    </open-files>
+</project-private>
