@@ -1,5 +1,5 @@
 package com;
-//Wrote Mr.David.MCA.,//DLK
+ 
 import java.util.*;
 
 public class Stopwords 
