@@ -29,10 +29,7 @@ import twitter4j.conf.ConfigurationBuilder;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author DLK 1
- */
+ 
 public class StatusExample 
 {
     ConfigurationBuilder of;
