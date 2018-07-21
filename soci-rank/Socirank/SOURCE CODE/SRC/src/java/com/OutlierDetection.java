@@ -5,10 +5,7 @@
  */
 package com;
 
-/**
- *
- * @author DLK 1
- */
+ 
 import java.util.Map;
 import java.util.List;
 import java.util.ArrayList;
@@ -52,8 +49,6 @@ import org.apache.commons.lang.StringUtils;
  *     1017023,4,1,1,3,2,1,3,1,1,2
  *     1017122,8,10,10,8,7,10,9,7,1,4
  *
- *
- * @author Mahmoud Parsian
  *
  */
 public class OutlierDetection {
